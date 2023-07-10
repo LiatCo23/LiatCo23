@@ -1,0 +1,6 @@
+name = "Liat Cohen"
+profession = "technical writer"
+location = "North Israel"
+
+introduction = f"My name is {name}, and I am a {profession}. I live in the {location}."
+print(introduction)
